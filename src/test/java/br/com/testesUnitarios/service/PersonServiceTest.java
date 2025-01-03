@@ -1,8 +1,6 @@
-package br.com.testesUnitarios;
+package br.com.testesUnitarios.service;
 
 import br.com.testesUnitarios.model.Person;
-import br.com.testesUnitarios.service.IPersonService;
-import br.com.testesUnitarios.service.PersonService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
